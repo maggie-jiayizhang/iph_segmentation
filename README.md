@@ -7,6 +7,7 @@ The existing methods of annotating IPH on field images requires arduous manual l
 by Maggie Zhang, MGRGX20; Supervisor: Professor Lisa Gilbert, Williams-Mystic
 
 **LANGUAGE**: MATLAB
+
 **KEY WORDS**: Semantic segmentation, pillow lava, intra-pillow-hyroclastic (IPH), geoscience
 
 ## Description of model
